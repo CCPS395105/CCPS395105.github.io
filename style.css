@@ -1,1 +1,22 @@
+p{
+  color: gray;
+  font-family: script;
+}
 
+ul{
+  font-family: Abadi;
+}
+ol{
+  text-align: left;
+  font-size:28px;
+}
+
+body{
+  color: black;
+  font-family: Display;
+    }
+
+footer{
+  text-align: left;
+  position: fixed;
+}
